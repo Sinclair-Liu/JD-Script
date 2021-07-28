@@ -15,7 +15,7 @@ update 2021.7.24 14:30
 cookies = ''
 # 设置开团的账号可填用户名 或 pin的值不要; env 设置 export jxgc_kaituan="用户1&用户2"
 # jxgc_kaituan = ['用户1','用户2']
-jxgc_kaituan = []
+jxgc_kaituan = ['jd_77ce400771baf']
 
 #京喜UA
 UserAgent = ''
